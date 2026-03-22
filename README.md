@@ -2,7 +2,7 @@
 - # Hi, I’m Aung Zaw Pyae 👋  
 🔧 Flutter & Laravel Developer  
 📈 Exploring Crypto, AI & Financial Freedom  
-🚀 Currently working on: POS
+🚀 Currently working on: Software engineering
 
 ### 🚀 Tech Stack
 Flutter • Laravel • Postgres • REST API • OpenAI API,Supabase, Javascript, VueJs.
